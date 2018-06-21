@@ -16,7 +16,7 @@ Quick summary:
 - Having experienced in **Agile** Methodologies, **Scrum** stories and **sprints** experience;
 
 I'm also interested in creating bots for Telegram Messenger, using **Telegram Bot API**.
-I create a Flask Extension, `flask-ptb<https://github.com/iskhomutov/flask-ptb>`_ which provide a simple integration with **python-telegram-bot** library.
+I create a Flask Extension, `flask-ptb <https://github.com/iskhomutov/flask-ptb>`_ which provide a simple integration with **python-telegram-bot** library.
 This extension is hosted on **GitHub** where it is connected to **Travis CI**. It is also uploaded on **PyPi** (in a test instance of this as the module is in alpha version yet).
 While working with python-telegram-bot library, I created a few simple bots using **Flask** framework, which was deployed on **Heroku** cloud platform.
 
@@ -35,7 +35,7 @@ Working Experience
 April, 2017 - Present
     **Web Developer**; Fogstream (Khabarovsk, Russian Federation)
 
-    Working as a developer in a medium-sized development team, that is primarily responsible for the development and improvement of a variety of social services (Education, Agriculture, Employment). All of this services is based on a M3 framework, that is build upon Django and ExtJS. Demo of the project can be found `here<http://school.bars-open.ru>`_.
+    Working as a developer in a medium-sized development team, that is primarily responsible for the development and improvement of a variety of social services (Education, Agriculture, Employment). All of this services is based on a M3 framework, that is build upon Django and ExtJS. Demo of the project can be found `here <http://school.bars-open.ru>`_.
 
     Day-to-day responsibilities include:
 
@@ -66,7 +66,7 @@ March, 2013 - April, 2017
     - Managed Cisco CUCM system;
     - Installed and managed all sorts of phone endpoints;
 
-    A year before leaving, began to be interested in programming, started to write small scripts for Asterisk and `Avaya<https://github.com/iskhomutov/python-ossi>`_, and at the end, created a small auto-dial system based on Django framework.
+    A year before leaving, began to be interested in programming, started to write small scripts for Asterisk and `Avaya <https://github.com/iskhomutov/python-ossi>`_, and at the end, created a small auto-dial system based on Django framework.
 
 Education
 ---------
