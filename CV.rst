@@ -6,7 +6,8 @@ Khabarovsk, Russian Federation
 Professional Overview
 ---------------------
 
-While working on the main job, I get a lot of usefull knowledge which helps me to write 
+While working on the main job, I get a lot of usefull knowledge which helps me to write simple yet reusable code.
+
 Quick summary:
 
 - Solid experience working with **Django** framework;
