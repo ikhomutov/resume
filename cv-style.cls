@@ -194,7 +194,7 @@
   \renewcommand{\section}[1]{
     \par\vspace{\baselineskip}{\Large\headingfont\color{headercolor} ##1}
   }
-  \begin{textblock}{3.6}(1, 1.87)
+  \begin{textblock}{4.2}(1, 1.87)
   \begin{flushright}
   \obeycr
 }{%
@@ -210,8 +210,3 @@
 
 \RequirePackage[left=5.6cm,top=1cm,right=1cm,bottom=1cm,nohead,nofoot]{geometry}
 \RequirePackage{hyperref}
-\hypersetup{
-    pdftitle=CV/Resume \textbar{} Alejandro Pérez Londoño,
-    pdfauthor=Alejandro Pérez Londoño,
-    pdfsubject=CV/Resume%
-    }
