@@ -9,15 +9,22 @@ Ivan Khomutov, Web Developer
 
 Technical skills
 ----------------
-:Backend: Python, Django, Celery
-:Frontend: BackboneJS, ExtJS
-:DevOps: Docker, Ansible, Kubernetes, Heroku
+:Backend: Python, Django, DRF, Celery, PostgreSQL
+:Frontend: React, Redux, Saga, Axios
+:DevOps: Docker, Ansible, Kubernetes, Heroku, GitLab CI
 
 
 Experience
 ----------
+July, 2019 - present
+    :description: Full Stack Developer
+    :organization: VAN.WORK
+    :location: Remote Position
+    
+    :technologies: Django 2.2, DRF 3.9, React 16.8, Redux/Saga, Docker
+
 September, 2018 - May, 2019
-    :description: Web Developer
+    :description: Python/Django Developer
     :organization: Semrush
     :location: Saint-Petersburg, Russia
     
@@ -26,11 +33,11 @@ September, 2018 - May, 2019
     :technologies: Python, Django, HTML, CSS, JavaScript, Celery, Redis, PostgreSQL, Ansible, Kubernetes, Docker, Jira
 
 May, 2016 - September, 2018
-    :description: Web Developer
+    :description: Python/Django Developer
     :organization: Fogstream
     :location: Remote Position
 
-    Worked as a developer in a medium-sized development team, that is primarily responsible for the development and improvement of a variety of social services (Education, Agriculture, Employment). All of this services is based on a M3 framework, that is build upon Django and ExtJS. Demo of the project can be found `here <http://school.bars-open.ru>`_ (russian only).
+    Worked as a developer in a medium-sized development team, that is primarily responsible for the development and improvement of a variety of social services (Education, Agriculture, Employment). All of this services is based on a M3 framework, that is built upon Django and ExtJS. Demo of the project can be found `here <http://school.bars-open.ru>`_ (russian only).
 
     Responsibilities:
 
